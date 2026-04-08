@@ -1,12 +1,10 @@
 <?php
 
-var_dump($_POST);
+$bitonio = "";
 
-include 'database.php';
-
-$sql = 'SELECT * FROM `task`';
-
-$statement = $pdo->query($sql);
-$task = $statement->fetch();
-
-var_dump($task);
+if($bitonio == false){
+    echo 'vrai';
+}
+else{
+    echo 'faux';
+}

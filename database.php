@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db   = 'todolist';
 $user = 'todolist';
-$pass = 'RV_PIm7NZxIANygZ';
+$pass = 'x(GH@!)mTxV/8U23';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
